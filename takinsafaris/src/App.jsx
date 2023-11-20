@@ -135,7 +135,7 @@ const App = () => {
           Inquiry <span className="quicksand-700">?</span>
         </h1>
         <p className="font-mono quicksand-700  text-xl md:text-3xl ">
-          Get to know more about TakinSafaris services
+          Get to know more about the Kincaid services
         </p>
         <p className="font-sans quicksand-700 md:mb-0 mb-4   text-2xl">
           24 hour customer service!
